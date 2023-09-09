@@ -427,75 +427,96 @@
           </material>
         </visual>
       </link>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
-          <joint_name>joint1</joint_name>
-          <p_gain>100</p_gain>
-          <d_gain>50</d_gain>
-          <i_gain>0</i_gain>
-          <i_min>-1</i_min>
-          <i_max>1</i_max>
-          <cmd_min>-120</cmd_min>
-          <cmd_max>120</cmd_max>
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
+        <joint_name>joint1</joint_name>
+        <topic>rotor1</topic>
+        <p_gain>100</p_gain>
+        <i_gain>0</i_gain>
+        <d_gain>50</d_gain>
+        <i_max>1</i_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
-          <joint_name>joint2</joint_name>
-          <p_gain>100</p_gain>
-          <d_gain>50</d_gain>
-          <i_gain>0</i_gain>
-          <i_min>-1</i_min>
-          <i_max>1</i_max>
-          <cmd_min>-120</cmd_min>
-          <cmd_max>120</cmd_max>
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
+        <joint_name>joint2</joint_name>
+        <topic>rotor2</topic>
+        <p_gain>100</p_gain>
+        <i_gain>0</i_gain>
+        <d_gain>50</d_gain>
+        <i_max>1</i_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
-          <joint_name>joint3</joint_name>
-          <p_gain>100</p_gain>
-          <d_gain>50</d_gain>
-          <i_gain>0</i_gain>
-          <i_min>-1</i_min>
-          <i_max>1</i_max>
-          <cmd_min>-120</cmd_min>
-          <cmd_max>120</cmd_max>
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
+        <joint_name>joint3</joint_name>
+        <topic>rotor3</topic>
+        <p_gain>100</p_gain>
+        <i_gain>0</i_gain>
+        <d_gain>50</d_gain>
+        <i_max>1</i_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
-          <joint_name>joint4</joint_name>
-          <p_gain>100</p_gain>
-          <d_gain>50</d_gain>
-          <i_gain>0</i_gain>
-          <i_min>-1</i_min>
-          <i_max>1</i_max>
-          <cmd_min>-120</cmd_min>
-          <cmd_max>120</cmd_max>
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
+        <joint_name>joint4</joint_name>
+        <topic>rotor4</topic>
+        <p_gain>100</p_gain>
+        <i_gain>0</i_gain>
+        <d_gain>50</d_gain>
+        <i_max>1</i_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
-          <joint_name>joint5</joint_name>
-          <p_gain>100</p_gain>
-          <d_gain>50</d_gain>
-          <i_gain>0</i_gain>
-          <i_min>-1</i_min>
-          <i_max>1</i_max>
-          <cmd_min>-120</cmd_min>
-          <cmd_max>120</cmd_max>
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
+        <joint_name>joint5</joint_name>
+        <topic>rotor5</topic>
+        <p_gain>100</p_gain>
+        <i_gain>0</i_gain>
+        <d_gain>50</d_gain>
+        <i_max>1</i_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
         <joint_name>joint6</joint_name>
+        <topic>rotor6</topic>
         <p_gain>100</p_gain>
-        <d_gain>50</d_gain>
         <i_gain>0</i_gain>
-        <i_min>-1</i_min>
+        <d_gain>50</d_gain>
         <i_max>1</i_max>
-        <cmd_min>-12</cmd_min>
-        <cmd_max>12</cmd_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
-      <plugin filename="ignition-gazebo-joint-position-controller-system" name="ignition::gazebo::systems::JointPositionController">
+      <plugin
+        filename="gz-sim-joint-position-controller-system"
+        name="gz::sim::systems::JointPositionController">
         <joint_name>joint7</joint_name>
+        <topic>rotor7</topic>
         <p_gain>100</p_gain>
-        <d_gain>50</d_gain>
         <i_gain>0</i_gain>
-        <i_min>-1</i_min>
+        <d_gain>50</d_gain>
         <i_max>1</i_max>
-        <cmd_min>-12</cmd_min>
-        <cmd_max>12</cmd_max>
+        <i_min>-1</i_min>
+        <cmd_max>1000</cmd_max>
+        <cmd_min>-1000</cmd_min>
       </plugin>
     </model>
   </world>
