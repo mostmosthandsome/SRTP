@@ -1,0 +1,31 @@
+[0.011s] Invoking command in '/home/handsome/research/srtp/xmate/controller/build/ros2_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/handsome/research/srtp/xmate/controller/build/ros2_controller -- -j8 -l8
+[0.026s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.124s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.173s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.173s] -- Added test 'lint_cmake' to check CMake code style
+[0.173s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.174s] -- Added test 'xmllint' to check XML markup files
+[0.174s] -- Configuring done
+[0.177s] -- Generating done
+[0.178s] -- Build files have been written to: /home/handsome/research/srtp/xmate/controller/build/ros2_controller
+[0.193s] Invoked command in '/home/handsome/research/srtp/xmate/controller/build/ros2_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/handsome/research/srtp/xmate/controller/build/ros2_controller -- -j8 -l8
+[0.215s] Invoking command in '/home/handsome/research/srtp/xmate/controller/build/ros2_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/handsome/research/srtp/xmate/controller/build/ros2_controller
+[0.220s] -- Install configuration: ""
+[0.220s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/launch
+[0.220s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/launch/demo.launch.py
+[0.220s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/package_run_dependencies/ros2_controller
+[0.220s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/parent_prefix_path/ros2_controller
+[0.220s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/ament_prefix_path.sh
+[0.220s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/ament_prefix_path.dsv
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/path.sh
+[0.221s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/path.dsv
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.bash
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.sh
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.zsh
+[0.221s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.dsv
+[0.221s] -- Installing: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/package.dsv
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/packages/ros2_controller
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/cmake/ros2_controllerConfig.cmake
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/cmake/ros2_controllerConfig-version.cmake
+[0.221s] -- Up-to-date: /home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/package.xml
+[0.222s] Invoked command in '/home/handsome/research/srtp/xmate/controller/build/ros2_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/handsome/research/srtp/xmate/controller/build/ros2_controller

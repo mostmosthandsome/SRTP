@@ -1,14 +1,16 @@
 ### Environment: 
 OS: Linux Ubuntu 22.04
+
 GAZEBO： Garden
 
 #### command
-in one terminal
+in one terminal（工作目录切换到有xmate.sdf的目录）
 ```
-gz sim xmate.sdf
+. controller/install/setup.bash 
+ros2 launch ros2_controller demo.launch.py
 ```
 
 in another terminal
 ```
-gz topic -t "/rotor2" -m gz.msgs.Double -p "data: 0.7"
+ros2 topic pub --once /rotor1 std_msgs/msg/Float64 "{data: 1.0}"
 ```

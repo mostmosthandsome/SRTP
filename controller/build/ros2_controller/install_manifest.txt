@@ -1,0 +1,16 @@
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/launch/demo.launch.py
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/package_run_dependencies/ros2_controller
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/parent_prefix_path/ros2_controller
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/ament_prefix_path.sh
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/ament_prefix_path.dsv
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/path.sh
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/environment/path.dsv
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.bash
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.sh
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.zsh
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/local_setup.dsv
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/package.dsv
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ament_index/resource_index/packages/ros2_controller
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/cmake/ros2_controllerConfig.cmake
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/cmake/ros2_controllerConfig-version.cmake
+/home/handsome/research/srtp/xmate/controller/install/ros2_controller/share/ros2_controller/package.xml

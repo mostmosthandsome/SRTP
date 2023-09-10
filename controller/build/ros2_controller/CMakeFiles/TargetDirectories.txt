@@ -1,0 +1,9 @@
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/uninstall.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/ros2_controller_uninstall.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/test.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/edit_cache.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/rebuild_cache.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/list_install_components.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/install.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/install/local.dir
+/home/handsome/research/srtp/xmate/controller/build/ros2_controller/CMakeFiles/install/strip.dir
